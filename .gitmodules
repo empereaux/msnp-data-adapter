@@ -1,0 +1,3 @@
+[submodule "msnp-data"]
+	path = msnp-data
+	url = https://github.com/empereaux/msnp-data
